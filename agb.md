@@ -1,5 +1,4 @@
 ---
-title: Nutzungsbedingungen (AGB) – ShiftSaldo
 ---
 
 # Nutzungsbedingungen (AGB) für die App „ShiftSaldo“
