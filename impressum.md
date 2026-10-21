@@ -5,11 +5,10 @@
 
 Angaben gemäß § 5 DDG
 
-GANI TUNC
-Hauptstraße.139 
-76703
+Gani Tunc<br>
+Hauptstraße 139<br>
+76703 Kraichtal<br>
 Deutschland
-
 ## Kontakt
 
 E-Mail: [gani_tunc@hotmail.com](mailto:gani_tunc@hotmail.com)
